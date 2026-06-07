@@ -1,4 +1,4 @@
-9# 💫 About Me:
+# 💫 About Me:
 Python programmer that loves CLI
 
 
